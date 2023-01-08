@@ -15,5 +15,11 @@
       "text": "Membuat aplikasi",
       "completed": false
     },
-  ]
+  ],
+  "posts": [
+    {
+      "id": 8,
+      "title": "hay hay"
+    }
+  ],
 }
