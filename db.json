@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 0, "text": "Membuat website", "completed": false },
+    { "id": 1, "text": "Membuat kue", "completed": false },
+    { "id": 2, "text": "Membuat design", "completed": false },
+  ]
+}
